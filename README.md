@@ -1,2 +1,2 @@
 # uniumgamejam.ga
-http://uniumgamejam.ga/
+https://uniumgamejam.ga/
