@@ -1,4 +1,4 @@
 # uniumgamejam.ga
 https://uniumgamejam.ga/
-\nhttps://uniumgamejam.ga/discord
-\nhttps://uniumgamejam.ga/wheel-of-fortune
+\n https://uniumgamejam.ga/discord
+\n https://uniumgamejam.ga/wheel-of-fortune
